@@ -6,7 +6,31 @@
 
 The Chief Historian is missing, and the Elves are trying to find him by checking locations he might have visited. Each location has a unique number (a location ID), and the Elves found two lists of these numbers in his office.
 
-The problem is the two lists are different, and you need to help them reconcile the lists by:
+### Problem Description
+The two lists of location IDs don't match. The task is to help The Historians reconcile the lists.
+
+#### Example Input
+
+**Left List**:
+```
+3
+4
+2
+1
+3
+3
+```
+
+**Right List**:
+```
+4
+3
+5
+3
+9
+3
+```
+
 1. Sorting both lists.
 2. Pairing numbers from the two lists (smallest with smallest, next smallest with next smallest, etc.).
 3. Calculating the difference between each pair of numbers.
