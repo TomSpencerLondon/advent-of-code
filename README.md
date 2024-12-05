@@ -157,7 +157,8 @@ Here are the principles:
 
 ```
 
-### Back to the problem
+### calculate and return the **total distance**
+#### input lists 
 ```python
 left = [3, 4, 2, 1, 3, 3]
 right = [4, 3, 5, 3, 9, 3]
