@@ -156,5 +156,5 @@ Here are the principles:
 - If the implementation is easy to explain, it may be a good idea.
 - Namespaces are one honking great idea -- let's do more of those!
 
-For the official source, refer to the [PEP 20 - The Zen of Python](https://peps.python.org/pep-0020/).
 ```
+[PEP 20 - The Zen of Python](https://peps.python.org/pep-0020/)
