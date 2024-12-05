@@ -31,10 +31,5 @@ The two lists of location IDs don't match. The task is to help The Historians re
 3
 ```
 
-1. Sorting both lists.
-2. Pairing numbers from the two lists (smallest with smallest, next smallest with next smallest, etc.).
-3. Calculating the difference between each pair of numbers.
-4. Adding up all these differences to get the total distance.
-
 #### Goal:
 Given your puzzle input (actual lists of location IDs), calculate and return the **total distance**.
