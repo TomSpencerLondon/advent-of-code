@@ -39,6 +39,10 @@ Given your puzzle input (actual lists of location IDs), calculate and return the
 This section explains how to calculate the "total distance" between two lists of numbers. The idea is to compare the two lists in a systematic way to measure how different they are.
 
 ---
+#### Statement
+
+Maybe the lists are only off by a small amount! To find out, pair up the numbers and measure how far apart they are. Pair up the smallest number in the left list with the smallest number in the right list, then the second-smallest left number with the second-smallest right number, and so on.
+
 
 ### **What Does It Mean?**
 1. **Pairing Numbers:** 
