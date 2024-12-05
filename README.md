@@ -156,3 +156,14 @@ Here are the principles:
 - Namespaces are one honking great idea -- let's do more of those!
 
 ```
+
+### Back to the problem
+```python
+left = [3, 4, 2, 1, 3, 3]
+right = [4, 3, 5, 3, 9, 3]
+```
+#### sorted
+```python
+left = [1, 2, 3, 3, 3, 4]
+right = [3, 3, 3, 4, 5, 9]
+``` 
