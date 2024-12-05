@@ -172,4 +172,9 @@ right = [3, 3, 3, 4, 5, 9]
 ```python
 comparisons = [(1, 3), (2, 3), (3, 3), (3, 4), (3, 5), (4, 9)]
 ```
- 
+#### differences added
+```python
+differences = 2 + 1 + 0 + 1 + 2 + 5
+``` 
+#### expected answer
+11
