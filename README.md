@@ -1,6 +1,9 @@
-# notebooks-algorithms
+# Advent of Code
+[Advent of Code](https://adventofcode.com/) 
 
 ### Problem Summary: Advent of Code - Day 1: Historian Hysteria
+[Day 1](https://adventofcode.com/2024/day/1) 
+
 
 ### Simple Summary:
 
