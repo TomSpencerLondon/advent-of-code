@@ -127,13 +127,10 @@ By combining `zip()` with the list comprehension, the line avoids verbose loopin
 
 ### The Zen of Python
 
-```markdown
-# The Zen of Python
-
 [PEP 20 - The Zen of Python](https://peps.python.org/pep-0020/)
 
 The **Zen of Python** is a collection of principles that capture the philosophy behind Python's design. It encourages simplicity, readability, and elegance in code.
-
+```
 > "Simple is better than complex."
 
 Here are the principles:
